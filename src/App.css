@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-:root {
+@theme {
   /* Backgrounds */
   --color-weather-bg: #080d1a;
   --color-weather-card: #111c33;
